@@ -7,6 +7,9 @@ formats.
 
 ------------------------------------------------------------------------
 
+![Screenshot 2026-01-31 151848](https://github.com/user-attachments/assets/41336f31-f2b3-4f8b-a5c2-eeb037b8209d)
+
+
 ## ✨ Features
 
 -   🎬 Load MP4 and extract audio automatically\
@@ -21,6 +24,9 @@ formats.
 ------------------------------------------------------------------------
 
 ## 📸 Workflow Overview
+
+<img width="1536" height="1024" alt="Workflow" src="https://github.com/user-attachments/assets/d47ba31d-367d-4b12-86d0-86921cd4a36a" />
+
 
 1.  Load an MP4 video\
 2.  Paste lyrics\
