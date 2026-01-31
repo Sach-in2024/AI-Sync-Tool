@@ -1,0 +1,10 @@
+PySide6==6.7.1
+torch>=2.0.1          # For AI alignment if using PyTorch-based models
+torchaudio>=2.1.0     # If your aligner uses torchaudio
+numpy>=1.25.0
+scipy>=1.11.0
+tqdm>=4.66.1          # Optional, for progress bars in alignment
+transformers>=4.34.0  # If align_audio uses transformers models
+librosa>=0.10.1       # For audio processing
+soundfile>=0.12.1     # For reading/writing audio
+ffmpeg-python>=0.2.1  # For extracting audio from MP4
